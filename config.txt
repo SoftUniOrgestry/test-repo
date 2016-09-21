@@ -1,5 +1,5 @@
-name = Johnathan
+name = JackJack
 
-size = 115
+size = 132
 
-email = sJoee@abv.bg
+email = Jeronimou@abv.bg
