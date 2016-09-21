@@ -1,5 +1,5 @@
-name = Peter
+name = Steve
 
-size = 100
+size = 111
 
-email = peter@dir.bg
+email = steve@dav.bg
